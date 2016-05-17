@@ -1,0 +1,12 @@
+These settings change the way the editor handles the input and output of content.
+这些设置会改变 编辑器处理输入输出的内容 的方式。
+
+This will help you to create clean, maintainable and readable content.
+这将帮助你 创建整洁，可维护性和可读性的内容。
+
+Talk to us about how to take your content creation applications to the next level.
+我们谈谈如何把你的内容创作应用到一个新的水平
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons BY-NC-SA 3.0 License, and code samples are licensed under the Apache 2.0 License.
+除非另有说明，本网页的内容
+
