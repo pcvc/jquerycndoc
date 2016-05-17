@@ -1,12 +1,13 @@
 These settings change the way the editor handles the input and output of content.
-ÕâĞ©ÉèÖÃ»á¸Ä±ä ±à¼­Æ÷´¦ÀíÊäÈëÊä³öµÄÄÚÈİ µÄ·½Ê½¡£
+è¿™äº›è®¾ç½®ä¼šæ”¹å˜ ç¼–è¾‘å™¨å¤„ç†è¾“å…¥è¾“å‡ºçš„å†…å®¹ çš„æ–¹å¼ã€‚
 
 This will help you to create clean, maintainable and readable content.
-Õâ½«°ïÖúÄã ´´½¨Õû½à£¬¿ÉÎ¬»¤ĞÔºÍ¿É¶ÁĞÔµÄÄÚÈİ¡£
+è¿™å°†å¸®åŠ©ä½  åˆ›å»ºæ•´æ´ï¼Œå¯ç»´æŠ¤æ€§å’Œå¯è¯»æ€§çš„å†…å®¹ã€‚
 
 Talk to us about how to take your content creation applications to the next level.
-ÎÒÃÇÌ¸Ì¸ÈçºÎ°ÑÄãµÄÄÚÈİ´´×÷Ó¦ÓÃµ½Ò»¸öĞÂµÄË®Æ½
+æˆ‘ä»¬è°ˆè°ˆå¦‚ä½•æŠŠä½ çš„å†…å®¹åˆ›ä½œåº”ç”¨åˆ°ä¸€ä¸ªæ–°çš„æ°´å¹³
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons BY-NC-SA 3.0 License, and code samples are licensed under the Apache 2.0 License.
-³ı·ÇÁíÓĞËµÃ÷£¬±¾ÍøÒ³µÄÄÚÈİ
+é™¤éå¦æœ‰è¯´æ˜ï¼Œæœ¬ç½‘é¡µçš„å†…å®¹
 
+this is by github.com.
